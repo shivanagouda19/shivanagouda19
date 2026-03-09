@@ -19,9 +19,7 @@
 
 - 🎓 **BTech Computer Science Engineering** student at **PES University, Electronic City**
 - 💻 Passionate about **Full Stack Development** and **Artificial Intelligence**
-- 🌱 Currently building real-world projects to sharpen my skills
 - 🔭 Always exploring new technologies and frameworks
-- 🤝 Open to collaborations, internships, and exciting opportunities
 - 📫 Reach me at: **[GitHub @shivanagouda19](https://github.com/shivanagouda19)**
 
 ---
