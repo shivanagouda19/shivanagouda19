@@ -40,8 +40,6 @@ Tech: JavaScript | HTML | CSS
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanagouda19&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanagouda19&layout=compact&theme=tokyonight)
