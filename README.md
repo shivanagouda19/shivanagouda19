@@ -1,20 +1,43 @@
-# Hi, I'm Shivanagouda 👋
+# Hi 👋 I'm Shivanagouda
 
-🎓 CSE Student @ PES University  
-💻 FullStack Developer | React.js | Node.js | Express.js  
+🎓 BTech Computer Science Engineering student  
+🏫 PES University, Electronic City  
+💻 Interested in Full Stack Development and AI  
+
+---
 
 ## 🚀 Tech Stack
-- HTML
-- CSS
+
 - JavaScript
-- React.js
 - Node.js
 - Express.js
 - MongoDB
-- REST APIs
+- HTML
+- CSS
+- Bootstrap
+- Git & GitHub
 
-## 🌱 Currently
-- Learning Open Source
+---
 
-## 📫 Connect
-- GitHub: https://github.com/ShivanagoudaPatil
+## 📌 Featured Projects
+
+### 🏡 CozyCorner (Airbnb Clone)
+Full-stack property listing platform.
+
+Tech: Node.js | Express | MongoDB | EJS
+
+### 💰 Finance Tracker
+A simple app to track income and expenses.
+
+Tech: JavaScript | HTML | CSS
+
+### 🎮 Simon Says Game
+Browser-based memory game.
+
+Tech: JavaScript | HTML | CSS
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shivanagouda19&show_icons=true)
