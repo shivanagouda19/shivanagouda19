@@ -51,75 +51,9 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏡 CozyCorner</h3>
-      <p>A full-stack <strong>Airbnb clone</strong> with complete listing, booking, and user authentication features.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black"/>
-      </p>
-      <a href="https://github.com/shivanagouda19">
-        <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 Finance Tracker</h3>
-      <p>A clean web app to <strong>track income and expenses</strong> with a dynamic dashboard and real-time balance updates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <a href="https://github.com/shivanagouda19">
-        <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 Simon Says Game</h3>
-      <p>A fun, browser-based <strong>memory game</strong> with increasing difficulty levels and interactive UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <a href="https://github.com/shivanagouda19">
-        <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔭 More Coming Soon...</h3>
-      <p>Currently building more exciting projects in Full Stack Development and AI. Stay tuned!</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanagouda19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivanagouda19&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanagouda19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivanagouda19&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=shivanagouda19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak"/>
 </p>
 
 ---
