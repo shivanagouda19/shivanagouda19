@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkwdTU4MWVjZGtlNGIxNzh4NmhnbzAweHU0aGViaDYycTJ1NDRpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="33" height = "33"> About Me
 
 - 🎓 **BTech Computer Science Engineering** student at **PES University**
 - 💻 Passionate about **Full Stack Development** and **Artificial Intelligence**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVuZzlyeXNuYzRjM29vOXUzYTk3YXc4dTVmdGd4dWdxNHdtaWcyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="33" height = "33"> Tech Stack
 
 **Languages & Markup**
 
@@ -52,14 +52,17 @@
 
 ---
 
-📊 GitHub Stats
+<p align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFtYTZlcGltZHMyMmR5MjRvazB4bGd0MHUyeHp0eTg2M3lmN3ZwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="33" height="33" />
+  <b>GitHub Stats</b>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivanagouda19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZsNXB2a2E0MnM5Z3dpczh0dnFqNWk1MnRsdTlrYmVkcWVtbzU5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lr2AV5MIiFi1vgAu0D/giphy.gif" width="33" height = "33"> Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanagouda19&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
