@@ -52,12 +52,10 @@
 
 ---
 
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFtYTZlcGltZHMyMmR5MjRvazB4bGd0MHUyeHp0eTg2M3lmN3ZwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="33" height="33" />
-  <b>GitHub Stats</b>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivanagouda19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak"/>
+## <p align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFtYTZlcGltZHMyMmR5MjRvazB4bGd0MHUyeHp0eTg2M3lmN3ZwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="33" height="33" /> GitHub Stats </p>
+
+<p align="center"> 
+<img src="https://streak-stats.demolab.com?user=shivanagouda19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak"/> 
 </p>
 
 ---
