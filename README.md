@@ -60,18 +60,6 @@
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZsNXB2a2E0MnM5Z3dpczh0dnFqNWk1MnRsdTlrYmVkcWVtbzU5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lr2AV5MIiFi1vgAu0D/giphy.gif" width="33" height = "33"> Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanagouda19&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
 <p align="center">
   <i>⭐ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting! Let's connect and build something awesome together 🚀</b>
 </p>
