@@ -58,5 +58,3 @@
 <p align="center"> 
 <img src="https://streak-stats.demolab.com?user=shivanagouda19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak"/> 
 </p>
-
----
