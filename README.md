@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Shivanagouda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;BTech+CS+Student+%40+PES+University" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/shivanagouda19">
+  <img src="ht
     <img src="https://komarev.com/ghpvc/?username=shivanagouda19&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/shivanagouda19?tab=followers">
