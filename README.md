@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shivanagouda 👋</h1>
 
 <p align="center">
-  <img src="ht
+  <a href="https://github.com/shivanagouda19">
     <img src="https://komarev.com/ghpvc/?username=shivanagouda19&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/shivanagouda19?tab=followers">
@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkwdTU4MWVjZGtlNGIxNzh4NmhnbzAweHU0aGViaDYycTJ1NDRpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="33" height = "33"> About Me
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkwdTU4MWVjZGtlNGIxNzh4NmhnbzAweHU0aGViaDYycTJ1NDRpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="33" height="33"> About Me
 
 - 🎓 **BTech Computer Science Engineering** student at **PES University**
 - 💻 Passionate about **Full Stack Development** and **Artificial Intelligence**
@@ -19,12 +19,12 @@
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVuZzlyeXNuYzRjM29vOXUzYTk3YXc4dTVmdGd4dWdxNHdtaWcyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="33" height = "33"> Tech Stack
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVuZzlyeXNuYzRjM29vOXUzYTk3YXc4dTVmdGd4dWdxNHdtaWcyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="33" height="33"> Tech Stack
 
 **Languages & Markup**
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
